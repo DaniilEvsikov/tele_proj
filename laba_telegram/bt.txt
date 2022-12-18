@@ -1,0 +1,2 @@
+cd C:\laba_telegram
+python manage.py
